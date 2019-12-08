@@ -291,6 +291,9 @@ public class StudentMain {
 		
 	}
 }
+
+
+
 运行截图：
 
 ![imag](https://github.com/curry301999/-5/blob/master/182d1f587b0e272e35e82f6cdc533f6.png)
