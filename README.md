@@ -287,4 +287,6 @@ public class StudentMain {
 }
 运行截图：
 
+![imag]
+
 
