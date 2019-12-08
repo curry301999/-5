@@ -287,6 +287,12 @@ public class StudentMain {
 }
 运行截图：
 
-![imag]
+![imag](https://github.com/curry301999/-5/blob/master/182d1f587b0e272e35e82f6cdc533f6.png)
+![imag](https://github.com/curry301999/-5/blob/master/27896030dae4447ad77cc8386e52c0e.png)
+![imag](https://github.com/curry301999/-5/blob/master/4d154051fb98dd8734332527f616a04.png)
+![imag](https://github.com/curry301999/-5/blob/master/53fb3bf0d17003b7d9c6ae0012e767b.png)
+![imag](https://github.com/curry301999/-5/blob/master/89946f44ea4235eb9ca2af6dbe79e47.png)
+![imag](https://github.com/curry301999/-5/blob/master/d35e5b12d4dd98925b709b6bd0841c3.png)
+![imag](https://github.com/curry301999/-5/blob/master/fdff6380935c1cc5b66073226a60aba.png)
 
 
